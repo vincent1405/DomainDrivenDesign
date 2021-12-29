@@ -1,2 +1,2 @@
 # DomainDrivenDesign
-Repository defining aggregates, entities, commands, requests and optionally enabling event sorucing
+Repository defining aggregates, entities, commands, requests and optionally enabling event sourcing
